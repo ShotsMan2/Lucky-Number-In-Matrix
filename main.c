@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-s
+
 int main()
 {
     int n,i,j,sayi,uygun,a,b,sansli,eleman,satirmin,sutunmax,k;
@@ -101,3 +101,4 @@ int main()
 
     return 0;
 }
+
